@@ -14,7 +14,7 @@ In Spanish: Tensai RSS te permite mostrar diferente informacion en tus feeds y e
 This plugin allows you choose which parts of your posts will be visible in your post or your feeds. 
 Using simple tags in your posts you can show information visible only in your blog or in your feeds. 
 This is very helpfull to hide some pointless information to your feed readers and viceversa.
-Automatically add an icon to yours links to highlight them when your feed content is copied.
+Automatically add an icon to your links to highlight them when your feed content is copied.
 You can also replace images for links to your post. No more hotlinking!
 
 Compatible with all Wordpress versions (since 2.1 to 2.8.3)
