@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: tensaiweb
-Tags: rss, feeds,posts, feedburner, customize, hotlinking
+Tags: rss, feeds, posts, feedburner, customize, hotlinking, protect, links
 Requires at least: 2.1
 Tested up to: 2.8.3
 Stable tag: trunk
